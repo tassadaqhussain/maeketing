@@ -1,0 +1,10 @@
+2019-08-02T15:49:08+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in E:\xampp\htdocs\demo\wp-admin\includes\plugin.php on line 68
+
+2019-08-02T15:49:34+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in E:\xampp\htdocs\demo\wp-includes\Requests\Transport\cURL.php on line 441
+
+2019-08-02T15:50:33+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in E:\xampp\htdocs\demo\wp-includes\Requests\Transport\cURL.php on line 163
+
+2019-08-02T16:30:06+00:00 CRITICAL Cannot redeclare WC() (previously declared in E:\xampp\htdocs\demo\wp-content\plugins\woocommerce\woocommerce.php:34) in E:\xampp\htdocs\demo\wp-content\themes\storefront\woocommerce.php on line 35
+
+2019-08-02T16:30:22+00:00 CRITICAL Cannot redeclare WC() (previously declared in E:\xampp\htdocs\demo\wp-content\plugins\woocommerce\woocommerce.php:34) in E:\xampp\htdocs\demo\wp-content\themes\storefront\woocommerce.php on line 35
+
